@@ -1,0 +1,1 @@
+# quarkus-netty-attrFiles-bug
